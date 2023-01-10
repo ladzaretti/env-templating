@@ -1,5 +1,6 @@
 {
 "customEnvVariables": {
     "MY_ENV_VAR": "%UserName%"
-  }
+  },
+"commitMessageSuffix": "env.MY_ENV_VAR"
 }
