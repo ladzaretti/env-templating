@@ -1,0 +1,5 @@
+{
+"customEnvVariables": {
+    "MY_ENV_VAR": "%UserName%"
+  }
+}
