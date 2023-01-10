@@ -1,1 +1,1 @@
-from ubuntu:16.4
+from ubuntu:16.04
